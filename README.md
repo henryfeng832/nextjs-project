@@ -4,3 +4,5 @@
 * todomvc for react
   * react static file
   * react hooks
+* Deploy to Vercel database
+  * defaults to US Easte region
